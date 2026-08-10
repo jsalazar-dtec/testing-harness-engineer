@@ -1,0 +1,14 @@
+{
+  "lint": "pass",
+  "tests": "pass",
+  "coverage": {
+    "value": null,
+    "threshold": 95,
+    "status": "skipped"
+  },
+  "sonar": "skipped",
+  "actions": "skipped",
+  "overall": "pass",
+  "sha": "05271c034695e3c5fa22e987dca8c37b1f9edf8b",
+  "dirty": false
+}

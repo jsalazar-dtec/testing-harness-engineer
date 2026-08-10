@@ -1,0 +1,16 @@
+{
+  "lint": "pass",
+  "tests": "pass",
+  "coverage": {
+    "value": null,
+    "threshold": 95,
+    "status": "skipped"
+  },
+  "sonar": "skipped",
+  "actions": "skipped",
+  "overall": "pass",
+  "sha": "05271c034695e3c5fa22e987dca8c37b1f9edf8b",
+  "dirty": false,
+  "task": "T2",
+  "configHash": "3650bd23cc70670079ae5e2724a2b2863920eb97"
+}
