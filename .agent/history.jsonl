@@ -13,3 +13,5 @@
 {"ts":"2026-08-10T18:59:15Z","event":"merged","task":"T2","actor":"task.sh","detail":{"pr":"3"}}
 {"ts":"2026-08-10T18:59:36Z","event":"start","task":"T3","actor":"task.sh","detail":{"branch":"feat/T3-api-userscontroller-post-users-que-orquesta-validacion-hash-y-respuesta-sin-credenciales"}}
 {"ts":"2026-08-10T19:02:48Z","event":"implemented","task":"T3","actor":"task.sh","detail":null}
+{"ts":"2026-08-10T19:03:16Z","event":"review","task":"T3","actor":"task.sh","detail":{"por":"tecnico","veredicto":"ok"}}
+{"ts":"2026-08-10T19:03:49Z","event":"review","task":"T3","actor":"task.sh","detail":{"por":"negocio","veredicto":"ok"}}

@@ -40,8 +40,8 @@
       "pr": null,
       "verifiedAt": null,
       "reviews": {
-        "tecnico": null,
-        "negocio": null
+        "tecnico": "ok",
+        "negocio": "ok"
       },
       "issue": 1
     }
