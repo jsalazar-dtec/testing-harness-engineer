@@ -11,3 +11,5 @@
 {"ts":"2026-08-10T18:46:42Z","event":"verified","task":"T2","actor":"task.sh","detail":{"sha":"05271c034695e3c5fa22e987dca8c37b1f9edf8b","configHash":"3650bd23cc70670079ae5e2724a2b2863920eb97"}}
 {"ts":"2026-08-10T18:59:15Z","event":"merged","task":"T1","actor":"task.sh","detail":{"pr":"2"}}
 {"ts":"2026-08-10T18:59:15Z","event":"merged","task":"T2","actor":"task.sh","detail":{"pr":"3"}}
+{"ts":"2026-08-10T18:59:36Z","event":"start","task":"T3","actor":"task.sh","detail":{"branch":"feat/T3-api-userscontroller-post-users-que-orquesta-validacion-hash-y-respuesta-sin-credenciales"}}
+{"ts":"2026-08-10T19:02:48Z","event":"implemented","task":"T3","actor":"task.sh","detail":null}
