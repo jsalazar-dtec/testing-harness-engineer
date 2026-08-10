@@ -17,14 +17,14 @@
     {
       "id": "T2",
       "title": "API: UsersService en memoria con bcrypt y deteccion de email duplicado",
-      "status": "implemented",
+      "status": "verified",
       "dependsOn": [],
       "branch": "feat/T2-api-usersservice-en-memoria-con-bcrypt-y-deteccion-de-email-duplicado",
       "pr": null,
-      "verifiedAt": null,
+      "verifiedAt": "05271c034695e3c5fa22e987dca8c37b1f9edf8b",
       "reviews": {
-        "tecnico": "ok",
-        "negocio": "ok"
+        "tecnico": null,
+        "negocio": null
       },
       "issue": 1
     },
