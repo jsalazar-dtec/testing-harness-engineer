@@ -1,13 +1,13 @@
 {
   "$schema": "harness/1",
   "harnessVersion": "0.2.0",
-  "stack": "unknown",
+  "stack": "typescript+nestjs",
   "integrationBranch": null,
   "commands": {
     "coverage": null,
-    "lint": null,
-    "test": null,
-    "testRelated": null
+    "lint": "npm run lint --silent",
+    "test": "npm test --silent",
+    "testRelated": "npm test --silent -- --findRelatedTests \"$HARNESS_FILE\" --passWithNoTests"
   },
   "coverageThreshold": 95,
   "sonar": {
