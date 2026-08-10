@@ -3,10 +3,10 @@
     {
       "id": "T1",
       "title": "API: DTO CreateUserDto con validacion de email y password fuerte",
-      "status": "verified",
+      "status": "merged",
       "dependsOn": [],
       "branch": "feat/T1-api-dto-createuserdto-con-validacion-de-email-y-password-fuerte",
-      "pr": null,
+      "pr": "2",
       "verifiedAt": "02645d5028fcae0ae47266f8d50c98584c2b6235",
       "reviews": {
         "tecnico": null,
@@ -17,10 +17,10 @@
     {
       "id": "T2",
       "title": "API: UsersService en memoria con bcrypt y deteccion de email duplicado",
-      "status": "verified",
+      "status": "merged",
       "dependsOn": [],
       "branch": "feat/T2-api-usersservice-en-memoria-con-bcrypt-y-deteccion-de-email-duplicado",
-      "pr": null,
+      "pr": "3",
       "verifiedAt": "05271c034695e3c5fa22e987dca8c37b1f9edf8b",
       "reviews": {
         "tecnico": null,
