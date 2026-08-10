@@ -1,5 +1,9 @@
 {"ts":"2026-08-10T18:26:06Z","event":"intake","task":"","actor":"task.sh","detail":{"issue":1,"veredicto":"acepta"}}
 {"ts":"2026-08-10T18:27:43Z","event":"start","task":"T1","actor":"task.sh","detail":{"branch":"feat/T1-api-dto-createuserdto-con-validacion-de-email-y-password-fuerte"}}
+{"ts":"2026-08-10T18:29:56Z","event":"implemented","task":"T1","actor":"task.sh","detail":null}
+{"ts":"2026-08-10T18:30:44Z","event":"review","task":"T1","actor":"task.sh","detail":{"por":"tecnico","veredicto":"ok"}}
+{"ts":"2026-08-10T18:31:27Z","event":"review","task":"T1","actor":"task.sh","detail":{"por":"negocio","veredicto":"ok"}}
+{"ts":"2026-08-10T18:31:55Z","event":"verified","task":"T1","actor":"task.sh","detail":{"sha":"02645d5028fcae0ae47266f8d50c98584c2b6235","configHash":"3650bd23cc70670079ae5e2724a2b2863920eb97"}}
 {"ts":"2026-08-10T18:43:41Z","event":"start","task":"T2","actor":"task.sh","detail":{"branch":"feat/T2-api-usersservice-en-memoria-con-bcrypt-y-deteccion-de-email-duplicado"}}
 {"ts":"2026-08-10T18:45:22Z","event":"implemented","task":"T2","actor":"task.sh","detail":null}
 {"ts":"2026-08-10T18:46:15Z","event":"review","task":"T2","actor":"task.sh","detail":{"por":"tecnico","veredicto":"ok"}}
