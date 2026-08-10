@@ -1,3 +1,49 @@
 {
-  "tasks": []
+  "tasks": [
+    {
+      "id": "T1",
+      "title": "API: DTO CreateUserDto con validacion de email y password fuerte",
+      "status": "verified",
+      "dependsOn": [],
+      "branch": "feat/T1-api-dto-createuserdto-con-validacion-de-email-y-password-fuerte",
+      "pr": null,
+      "verifiedAt": "02645d5028fcae0ae47266f8d50c98584c2b6235",
+      "reviews": {
+        "tecnico": null,
+        "negocio": null
+      },
+      "issue": 1
+    },
+    {
+      "id": "T2",
+      "title": "API: UsersService en memoria con bcrypt y deteccion de email duplicado",
+      "status": "pending",
+      "dependsOn": [],
+      "branch": null,
+      "pr": null,
+      "verifiedAt": null,
+      "reviews": {
+        "tecnico": null,
+        "negocio": null
+      },
+      "issue": 1
+    },
+    {
+      "id": "T3",
+      "title": "API: UsersController POST /users que orquesta validacion, hash y respuesta sin credenciales",
+      "status": "pending",
+      "dependsOn": [
+        "T1",
+        "T2"
+      ],
+      "branch": null,
+      "pr": null,
+      "verifiedAt": null,
+      "reviews": {
+        "tecnico": null,
+        "negocio": null
+      },
+      "issue": 1
+    }
+  ]
 }
