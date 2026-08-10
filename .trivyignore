@@ -1,0 +1,7 @@
+# Vulnerabilidades no fixeables detectadas por Trivy.
+# Cada linea requiere: el ID, un comentario que justifique por que no es fixeable,
+# y la URL del advisory. Sin las tres cosas, la exclusion no se acepta en review.
+#
+# Ejemplo:
+# CVE-0000-00000  # sin fix upstream; solo afecta al CLI, no al runtime
+#                 # https://github.com/advisories/GHSA-xxxx-xxxx-xxxx

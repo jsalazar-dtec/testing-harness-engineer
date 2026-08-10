@@ -1,0 +1,6 @@
+# Vulnerabilidades no fixeables detectadas por OSV.
+# Cada entrada requiere justificacion y la URL del advisory.
+#
+# [[IgnoredVulns]]
+# id = "GHSA-xxxx-xxxx-xxxx"
+# reason = "sin fix upstream; no alcanzable desde nuestro codigo — https://github.com/advisories/GHSA-xxxx-xxxx-xxxx"

@@ -1,0 +1,7 @@
+# Secretos no fixeables detectados por Gitleaks.
+# Cada linea requiere: el ID, un comentario que justifique por que no es fixeable,
+# y la URL del advisory. Sin las tres cosas, la exclusion no se acepta en review.
+#
+# Ejemplo:
+# 0000000  # es una falsa alarma; solo un patrón de prueba
+#          # https://github.com/advisories/GHSA-xxxx-xxxx-xxxx
