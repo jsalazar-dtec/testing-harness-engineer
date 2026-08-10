@@ -3,7 +3,7 @@
     {
       "id": "T1",
       "title": "API: DTO CreateUserDto con validacion de email y password fuerte",
-      "status": "pending",
+      "status": "implemented",
       "dependsOn": [],
       "branch": "feat/T1-api-dto-createuserdto-con-validacion-de-email-y-password-fuerte",
       "pr": null,
