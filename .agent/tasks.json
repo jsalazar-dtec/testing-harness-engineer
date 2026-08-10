@@ -31,13 +31,13 @@
     {
       "id": "T3",
       "title": "API: UsersController POST /users que orquesta validacion, hash y respuesta sin credenciales",
-      "status": "verified",
+      "status": "merged",
       "dependsOn": [
         "T1",
         "T2"
       ],
       "branch": "feat/T3-api-userscontroller-post-users-que-orquesta-validacion-hash-y-respuesta-sin-credenciales",
-      "pr": null,
+      "pr": "4",
       "verifiedAt": "e375941a9ea69d11553c23ca4627e91591e1d5d9",
       "reviews": {
         "tecnico": null,

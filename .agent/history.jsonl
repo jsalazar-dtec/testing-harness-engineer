@@ -16,3 +16,4 @@
 {"ts":"2026-08-10T19:03:16Z","event":"review","task":"T3","actor":"task.sh","detail":{"por":"tecnico","veredicto":"ok"}}
 {"ts":"2026-08-10T19:03:49Z","event":"review","task":"T3","actor":"task.sh","detail":{"por":"negocio","veredicto":"ok"}}
 {"ts":"2026-08-10T19:04:00Z","event":"verified","task":"T3","actor":"task.sh","detail":{"sha":"e375941a9ea69d11553c23ca4627e91591e1d5d9","configHash":"3650bd23cc70670079ae5e2724a2b2863920eb97"}}
+{"ts":"2026-08-10T19:13:57Z","event":"merged","task":"T3","actor":"task.sh","detail":{"pr":"4"}}
